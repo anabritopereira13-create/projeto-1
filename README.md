@@ -14,6 +14,11 @@ index.html
   </html>
   <p> vou compartilhar uns conhecimentos sobre o voleibol
   por Ana clara
+  <p> o voleibol e composto por 6 jogadores em cada time
+  <p> tem varias regras
+  <h1>vou dizer algumas regrinhas
+  <p> so pode ter 3 toques
+  <P>quando um time fizer ponto tera que fazer o rodizio
   
 
 
