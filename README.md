@@ -23,6 +23,14 @@ index.html
   color:black
   max-width:800px;
   margin:0 auto;
+  </header>
+  </main>
+
+  <h2>meu primeiro post</h2>
+  <P>por Ana clara</p>
+  <p> boas vindas ao meu novo blog sobre o voleibol!aqui vou comparilhar regras sobre o voleibol dicas e como jogar
+  </main>
+  </body>
   
 
 
