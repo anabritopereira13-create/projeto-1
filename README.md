@@ -31,6 +31,7 @@ index.html
   <p> boas vindas ao meu novo blog sobre o voleibol!aqui vou comparilhar regras sobre o voleibol dicas e como jogar
   </main>
   </body>
+  </html>
   
 
 
