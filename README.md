@@ -19,7 +19,10 @@ index.html
   <h1>vou dizer algumas regrinhas
   <p> so pode ter 3 toques
   <P>quando um time fizer ponto tera que fazer o rodizio
+  background -color:
+  color:black
   
+
 
 
 
