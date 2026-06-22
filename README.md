@@ -21,6 +21,8 @@ index.html
   <P>quando um time fizer ponto tera que fazer o rodizio
   background -color:
   color:black
+  max-width:800px;
+  margin:0 auto;
   
 
 
